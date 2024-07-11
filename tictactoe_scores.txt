@@ -1,3 +1,0 @@
-Player: 2
-Computer: 0
-Result: Player X wins
